@@ -1,0 +1,10 @@
+F:\sample\MyFirstStepNetCore\MyFirstStepNetCore\bin\Debug\netcoreapp1.1\MyFirstStepNetCore.deps.json
+F:\sample\MyFirstStepNetCore\MyFirstStepNetCore\bin\Debug\netcoreapp1.1\MyFirstStepNetCore.runtimeconfig.json
+F:\sample\MyFirstStepNetCore\MyFirstStepNetCore\bin\Debug\netcoreapp1.1\MyFirstStepNetCore.runtimeconfig.dev.json
+F:\sample\MyFirstStepNetCore\MyFirstStepNetCore\bin\Debug\netcoreapp1.1\MyFirstStepNetCore.dll
+F:\sample\MyFirstStepNetCore\MyFirstStepNetCore\bin\Debug\netcoreapp1.1\MyFirstStepNetCore.pdb
+F:\sample\MyFirstStepNetCore\MyFirstStepNetCore\obj\Debug\netcoreapp1.1\MyFirstStepNetCore.csprojResolveAssemblyReference.cache
+F:\sample\MyFirstStepNetCore\MyFirstStepNetCore\obj\Debug\netcoreapp1.1\MyFirstStepNetCore.csproj.CoreCompileInputs.cache
+F:\sample\MyFirstStepNetCore\MyFirstStepNetCore\obj\Debug\netcoreapp1.1\MyFirstStepNetCore.AssemblyInfo.cs
+F:\sample\MyFirstStepNetCore\MyFirstStepNetCore\obj\Debug\netcoreapp1.1\MyFirstStepNetCore.dll
+F:\sample\MyFirstStepNetCore\MyFirstStepNetCore\obj\Debug\netcoreapp1.1\MyFirstStepNetCore.pdb
